@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Math
 |  |
 | ------- |
