@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1381-design-a-stack-with-increment-operation](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1833-maximum-ice-cream-bars](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3904-smallest-stable-index-ii](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
@@ -59,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Hash Table
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
