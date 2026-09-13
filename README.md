@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1833-maximum-ice-cream-bars](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
