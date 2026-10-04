@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2396-strictly-palindromic-number](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3524-find-x-value-of-array-i](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [2396-strictly-palindromic-number](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
 |  |
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/0877-stone-game) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
