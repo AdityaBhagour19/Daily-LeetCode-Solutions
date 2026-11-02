@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1254-number-of-closed-islands](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
