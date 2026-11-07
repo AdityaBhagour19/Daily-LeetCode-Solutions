@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2485-find-the-pivot-integer](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [3904-smallest-stable-index-ii](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2396-strictly-palindromic-number](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
+| [2485-find-the-pivot-integer](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
