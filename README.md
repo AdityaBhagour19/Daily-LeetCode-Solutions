@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1254-number-of-closed-islands](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1833-maximum-ice-cream-bars](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Stack
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0835-image-overlap](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/3665-twisted-mirror-path-count) |
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bracket Sequences
 |  |
@@ -325,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
