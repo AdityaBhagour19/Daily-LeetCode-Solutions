@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0728-self-dividing-numbers](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AdityaBhagour19/Daily-LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
